@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: #b9f1da;
+    background-color: #012c50;
+  
+}
+
+.lista {
+background-color: #dedee0;
+font-size: 18px;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+img {
+    width: 300px;
+}
+
